@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaboicae22wissgoog_0577.png"; bbox 0 0 3150 5166; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 532 2451 1247 2553">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 532 2451 1247 2553">
+     <span class='ocr_line' id='line_1_1' title="bbox 532 2451 1247 2553; baseline -0.004 -12"><span class='ocrx_word' id='word_1_1' title='bbox 532 2454 738 2541; x_wconf 78' lang='lat' dir='ltr'><strong>Stanford</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 763 2453 1011 2553; x_wconf 75' lang='lat' dir='ltr'><strong>University</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1034 2451 1247 2538; x_wconf 77' lang='lat' dir='ltr'>Libraries</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 649 2558 1127 2656">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 649 2558 1127 2656">
+     <span class='ocr_line' id='line_1_2' title="bbox 649 2558 1127 2656; baseline -0.01 -11"><span class='ocrx_word' id='word_1_4' title='bbox 649 2559 868 2656; x_wconf 74' lang='lat' dir='ltr'><strong>stanford,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 893 2558 1127 2644; x_wconf 77' lang='lat' dir='ltr'><strong>California</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 566 2859 1228 2928">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 566 2859 1228 2928">
+     <span class='ocr_line' id='line_1_3' title="bbox 566 2859 1228 2928; baseline -0.009 -2"><span class='ocrx_word' id='word_1_6' title='bbox 566 2865 683 2927; x_wconf 63' lang='lat' dir='ltr'>Reium</span> <span class='ocrx_word' id='word_1_7' title='bbox 696 2869 759 2928; x_wconf 68' lang='lat' dir='ltr'><strong>thu</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 771 2869 849 2928; x_wconf 75' lang='lat' dir='ltr'><strong>book</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 861 2886 900 2927; x_wconf 80' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 912 2885 949 2927; x_wconf 78' lang='lat' dir='ltr'><strong>or</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 959 2868 1066 2927; x_wconf 70' lang='lat' dir='ltr'><strong>Mor·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1076 2864 1149 2924; x_wconf 69' lang='lat' dir='ltr'><strong>dot·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1159 2859 1228 2921; x_wconf 73' lang='lat' dir='ltr'><strong>due.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1580 5166">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1580 5166">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1580 5166; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1580 5166; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
